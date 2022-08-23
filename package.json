@@ -1,7 +1,7 @@
 {
-  "name": "nucampsite",
+  "name": "chattcode",
   "version": "1.0.0",
-  "description": "This is a website for the fictional campsites review site NuCamp.",
+  "description": "This is a website for the fictional coding community Chattanooga Coding Collective.",
   "main": "index.html",
   "scripts": {
     "lite": "lite-server",
