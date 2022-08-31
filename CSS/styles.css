@@ -1,14 +1,26 @@
 body {
     font-family: 'Rubik Dirt', cursive;
+    background-color: darkgray;
+}
+
+.jumbotron {
+    background-image: linear-gradient(yellow, pink);
+}
+
+.navbar {
+    background-color: black;
 }
 
 h1 {
     font-size: 48px;
-    text-shadow: 10px 10px 2px rgb(126, 62, 62);
+    
 }
 
 h2 {
-    font-size: 32px;
-    text-shadow: 10px 10px 2px rgb(126, 62, 62);
+    font-size: 24px;
+    
 }
 
+.site-footer {
+    background-image: linear-gradient(yellow, pink);
+}
