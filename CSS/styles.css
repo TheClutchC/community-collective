@@ -1,6 +1,10 @@
 body {
-    font-family: 'Rubik Dirt', cursive;
+    font-family: sans-serif;
     background-color: darkgray;
+}
+
+header {
+    font-family: 'Rubik Dirt', cursive;
 }
 
 .jumbotron {
@@ -9,6 +13,12 @@ body {
 
 .navbar {
     background-color: black;
+    font-family: 'Rubik Dirt';
+
+}
+
+.blockquote {
+    font-family: cursive;
 }
 
 h1 {
